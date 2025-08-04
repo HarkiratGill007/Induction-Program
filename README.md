@@ -65,4 +65,23 @@
 - **Final 15 mins | Causmic Club Closing Session:**  
   The Causmic Club briefly discussed essential aptitude skills students should develop.  
   They also shared their social media handles for students to stay connected.
+---    
 
+## **Day 4 - 3rd August 2025**
+
+- **9:30 AM - 10:30 AM | P2P Class by Third Year Seniors:**
+  We were assembled in respective classrooms, for a basic introduction on C++ given by third year seniors. We ran our first C++ code,     learnt about some basics in programming
+
+- **10:30 AM - 11:30 AM | First BEEE lecture by Prof. Balwinder Singh:**
+  Prof. Balwinder Singh give us an introduction to BEEE and topics we will study in the upcoming lectures. He told about prescribed and   recommended books which was followed by students introducing themselves
+
+- **12:30 PM - 2:30 PM | 2nd Lecture on UHV by Dr. Priya Darshani Madam:**
+  It was second interactive lecture by Dr. Priya Darshani Madam. We learnt about cycle of exciting habits , addiction , depression and
+  escapism . Also we learn about Pre-dressing , Sensation and Natural Agreement being the three causes of a need of a physical
+  facility.
+  
+- **2:30 onwards|Session by Causmic Club:**
+  Causmic Club took another session , told about its significance , motivated others to join.
+  Then we were given a tutorial to buy an optimal laptop.
+  
+  
