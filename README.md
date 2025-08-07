@@ -67,7 +67,7 @@
   They also shared their social media handles for students to stay connected.
 ---    
 
-## **Day 4 - 3rd August 2025**
+## **Day 4 - 4rd August 2025**
 
 - **9:30 AM - 10:30 AM | P2P Class by Third Year Seniors:**
   We were assembled in respective classrooms, for a basic introduction on C++ given by third year seniors. We ran our first C++ code,     learnt about some basics in programming
@@ -77,11 +77,48 @@
 
 - **12:30 PM - 2:30 PM | 2nd Lecture on UHV by Dr. Priya Darshani Madam:**
   It was second interactive lecture by Dr. Priya Darshani Madam. We learnt about cycle of exciting habits , addiction , depression and
-  escapism . Also we learn about Pre-dressing , Sensation and Natural Agreement being the three causes of a need of a physical
-  facility.
+  escapism . Also we learn about Pre-derssing , Sensation and Natural Agreement being the three causes of a need of a physical facility.
   
 - **2:30 onwards|Session by Causmic Club:**
   Causmic Club took another session , told about its significance , motivated others to join.
   Then we were given a tutorial to buy an optimal laptop.
   
-  
+## **Day 5 – 5th August 2025**
+
+- **9:30 AM – 10:30 AM | Chemistry Lecture by Prof. Mandeep Kaur:**  
+Our first Chemistry class was an introductory session. Prof. Mandeep Kaur explained how the subject would be structured throughout the semester and gave an overview of its applications in engineering.
+
+- **10:30 AM – 11:30 AM | English Lecture by Prof. Nisha:**  
+The English session was held in Room F-106. Prof. Nisha gave a brief about the course syllabus and evaluation methods. The class involved student introductions to build communication and comfort.
+
+- **11:30 AM – 12:30 PM | Maths Lecture by Dr. Rajbir Kaur:**  
+Our first Maths lecture was held in the ME Seminar Hall. It was an orientation session where Dr. Rajbir Kaur discussed the four-year roadmap of mathematics in B.Tech and gave insights into what to expect in the current semester.
+
+## **Day 6 – 6th August 2025**
+
+- **9:30 AM – 11:30 AM | ID Card Registration :**  
+CSE-C students completed the ID card **registration** process outside the TCC Seminar Hall. Basic details were collected and documents verified in preparation for ID card creation.
+
+- **1:00 PM – 4:00 PM | Combined Auditorium Session – CML Introduction & Sayam E-Enrollment:**  
+The auditorium session began with Dr. Lakhvir Singh Khana (Incharge, CML) introducing the Centre for Multifaceted Learning and highlighting its role in fostering holistic student development.  
+This was followed by a hands-on orientation on the Sayam E-Enrollment system, where students learned how to get degrees online coursed.  
+The session concluded with a clapping activity led by **Mr. Jasvir Singh Sekhon** (District Resource Person – STEM), as we were running out of time.
+
+## **Day 7 – 7th August 2025**
+
+- **9:30 AM – 10:30 AM | Lecture by Dr. Amit Kamra (Incharge–DMC):**  
+This auditorium session introduced the Digital Media Committee of GNDEC, which manages the college’s online presence and promotional activities. Students were encouraged to register for recruitment into the committee, which also provides opportunities to develop digital media skills.
+
+- **10:30 AM – 11:30 AM | Lecture by Dr. Parminder Singh (Dean – Student Welfare):**  
+Dr. Parminder Singh gave an overview of the campus layout and student welfare services. He highlighted **60 internal scholarships** available at GNDEC, aimed at supporting deserving students in need.
+
+- **11:30 AM – 12:30 PM | Lecture by Dr. Randhir Singh on "Conduct of Examination":**  
+The session focused on exam regulations, compulsory attendance rules, and basic marking schemes. Students were briefed on strict disciplinary norms regarding exanimation conduct.
+
+- **1:30 PM – 2:30 PM | Maths Lecture:**  
+The session served as a recap of Class 12 Calculus topics. The instructor provided an overview to concepts for the upcoming engineering mathematics syllabus.
+
+- **2:30 PM – 3:30 PM | English Lecture by Prof. Manjot Kaur:**  
+Prof. Manjot Kaur briefly explained the English curriculum and evaluation structure. The class included student introductions.
+
+
